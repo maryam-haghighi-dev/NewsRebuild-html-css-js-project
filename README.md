@@ -21,7 +21,7 @@ The goal was to improve my frontend development skills by recreating the structu
 
 - HTML5  
 - CSS3  
-- JavaScript (Vanilla)
+- JavaScript
 ## 📷 Screenshots
 
 ![screenshot](https://github.com/user-attachments/assets/34b6bb42-f446-4120-a1f6-71f3080b1e2e)
